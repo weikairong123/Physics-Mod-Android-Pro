@@ -1,3 +1,3 @@
 This is a library for Android physicsmod.
-Most of things com from github.com/fabmax/physx-jni .
+Most of things come from github.com/fabmax/physx-jni .
 Thanks for fabmax to provide physx-jni.
